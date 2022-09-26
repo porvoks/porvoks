@@ -1,0 +1,5 @@
+Version 1.0.1
+    - JS libraries updated
+
+Version 1.0
+Release
