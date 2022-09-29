@@ -3,9 +3,9 @@
 /* theme_skin_general */
 
 .light_bg {color: #363842;}
-.light_bg .main_title_color {color: #ff6f58;}
+.light_bg .main_title_color {color: #10AAFF;}
 .light_bg .title_color {color: #363842;}
-.light_bg a {color: #ffb72f;}
+.light_bg a {color: #AF3988;}
 
 .dark_bg {color: #ffffff;}
 .dark_bg .main_title_color {color: #ffffff;}
@@ -13,7 +13,7 @@
 .dark_bg a {color: #ffffff;}
 
 .dark_footer_bg {background-color: #363842; color: #ffffff;}
-.dark_footer_bg a {background-color: #363842; color: #ffb72f;}
+.dark_footer_bg a {background-color: #363842; color: #AF3988;}
 
 /* Theme Accent Color
 ------------------------------------------------------------------------- */
