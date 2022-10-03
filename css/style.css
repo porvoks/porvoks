@@ -318,7 +318,7 @@ section.no_container_padding > .container-fluid > .row > [class*="col-"] {paddin
 .dark_section h5, 
 .dark_section h6 {color: #fff;}
 
-.red_section {background-color:#ff6f58;}
+.red_section {background-color:#10AAFF ;}
 .red_section h1,
 .red_section h2, 
 .red_section h3, 
@@ -675,7 +675,7 @@ body.boxed .boxedWrap,
 
 
 /* Magnific popup */
-.mfp-wrap { margin-top: 30px; }
+.mfp-wrap { margin-top: 150px; }
 .mfp-bottom-bar { margin-top:-70px !important; background-color:rgba(0,0,0,0.5); padding:6px 0; min-height:18px; }
 .mfp-bottom-bar .mfp-title,
 .mfp-bottom-bar .mfp-counter { color: #ffffff; }
@@ -2329,9 +2329,9 @@ li.swiper-slide img {vertical-align: initial !important; border: initial !import
 	background-color:#6fd3d7;
 }
 
-.slider_1_bg {background-color:#AF3988;}
+.slider_1_bg {background-color:#EE5007;}
 .slider_2_bg {background-color:#38cab4;}
-.slider_3_bg {background-color:#f1d518;}
+.slider_3_bg {background-color:#F8CB2E;}
 
 .tp-caption._text{
 	color:#fff;
@@ -2501,7 +2501,7 @@ li.swiper-slide img {vertical-align: initial !important; border: initial !import
 
 .tp-button.red, .tp-button:hover.red,
 .purchase.red, .purchase:hover.red {
-	background-color: #f4cdb6;
+	background-color: #352d28;
 	-webkit-box-shadow: 3px 4px rgba(255, 209, 95, 1);
 	-moz-box-shadow: 3px 4px rgba(255, 209, 95, 1);
 	box-shadow: 3px 4px rgba(255, 209, 95, 1);
@@ -2611,15 +2611,15 @@ li.swiper-slide img {vertical-align: initial !important; border: initial !import
 .button-action.blue {background: #3d0000;}
 
 .button-action.red:before,
-.button-action.red:after {background: #f26511;}
-.button-action.red {background: #cf5151;}
+.button-action.red:after {background: #AF3988;}
+.button-action.red {background: #ffb72f;}
 
 .button-action.orange:before,
 .button-action.orange:after {background: #ffb72f;}
 .button-action.orange {background: #3d0000;}
 
 .button-action.darkgrey:before,
-.button-action.darkgrey:after {background: #3d0000;}
+.button-action.darkgrey:after {background: #AF3988;}
 .button-action.darkgrey {background: #f26511;}
 
 .button-action.lightgrey:before,
